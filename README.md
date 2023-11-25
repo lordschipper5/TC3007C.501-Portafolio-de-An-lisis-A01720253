@@ -22,15 +22,15 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Big Data*
   - *SMA0104C*
-    - **Evidencia 01: Creación de usuario en Linux** Favor de revisar el archivo **Final/BigData/Evidencia01/CreacionUsuario_Linux.png**
+    - **Evidencia 01: Creación de usuario en Linux** Favor de revisar el archivo **Big Data/CreacionUsuario_Linux.png**
     - **Evidencia 02: Instalación de Spark en AWS** Favor de revisar los archivos:
-      - **BigData/Paso1.png**
-      - **BigData/Paso2.png**
-      - **BigData/Paso3.png**
-      - **BigData/Paso4.png**
-      - **BigData/Paso5.png**
-      - **BigData/Paso6.png**
-      - **BigData/Paso7.png**
+      - **Big Data/Paso1.png**
+      - **Big Data/Paso2.png**
+      - **Big Data/Paso3.png**
+      - **Big Data/Paso4.png**
+      - **Big Data/Paso5.png**
+      - **Big Data/Paso6.png**
+      - **Big Data/Paso7.png**
 - *Estadística Avanzada*
   - *SMA0104C*
     - **Actividad 01: La Normal Multivariada** 
