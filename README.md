@@ -40,7 +40,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
   - *SEG0403B*
     - **Evidencia 01: Privacidad y Seguridad de los Datos** Se encuentra en la direccion **Reto/PrivacidadSeguridad_Datos.pdf**
 - *Cloud Computing*
-  - **DisenoCloud**
+  - **Cloud Design**: DisenoCloud.pdf
 
 ## Cambios solicitados y respuestas
 
